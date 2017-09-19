@@ -1,0 +1,19 @@
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.deps.json
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.runtimeconfig.json
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.runtimeconfig.dev.json
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.dll
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.pdb
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.csproj.CoreCompileInputs.cache
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.AssemblyInfo.cs
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.dll
+C:\Users\Angel.Nikolov\Documents\Visual Studio 2017\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.pdb
+C:\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.deps.json
+C:\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.runtimeconfig.json
+C:\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.runtimeconfig.dev.json
+C:\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.dll
+C:\Projects\TPLtesting\TPLtesting\bin\Debug\netcoreapp1.1\TPLtesting.pdb
+C:\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.csprojResolveAssemblyReference.cache
+C:\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.csproj.CoreCompileInputs.cache
+C:\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.AssemblyInfo.cs
+C:\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.dll
+C:\Projects\TPLtesting\TPLtesting\obj\Debug\netcoreapp1.1\TPLtesting.pdb
